@@ -31,7 +31,6 @@ src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
   ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
   ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
